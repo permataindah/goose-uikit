@@ -115,13 +115,10 @@ export const links = [
 
 export const socials = [
   {
-    label: "Telegram",
+    label: "Contact",
     icon: "TelegramIcon",
-    items: [
-      {
-        label: "Contact",
-        href: "https://t.me/xclawkevin"
-      },
+    href: "https://t.me/xclawkevin",
+  },
 ];
 
 export const MENU_HEIGHT = 64;
