@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "Contact",
-        href: "https://t.me/xclawkevin",
+        href: "https://t.me/xclawkevin"
       },
 ];
 
