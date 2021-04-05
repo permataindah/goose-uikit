@@ -2164,14 +2164,9 @@ var links = [
 ];
 var socials = [
     {
-        label: "Telegram",
+        label: "Contact",
         icon: "TelegramIcon",
-        items: [
-            {
-                label: "Contact",
-                href: "https://t.me/xclawkevin"
-            },
-        ],
+        href: "https://t.me/xclawkevin",
     },
 ];
 var MENU_HEIGHT = 64;
