@@ -117,7 +117,7 @@ export const socials = [
   {
     label: "Contact",
     icon: "TelegramIcon",
-    href: "https://t.me/xclawkevin",
+    href: "https://t.me/xmbyre",
   },
 ];
 
